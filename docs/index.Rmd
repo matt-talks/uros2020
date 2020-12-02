@@ -276,7 +276,7 @@ knitr::include_graphics("airflow_screenshot.png")
 
 class:center,middle
 
-## Applied Examples
+## Applied Example: The swissdata project
 
 
 <div class="my-footer"><span><div class="footer-text" align="right">This presentation by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
@@ -286,18 +286,15 @@ class:center,middle
 ---
 
 
-## An Example Workflow: Sourcing Data (ETL) 
+class:center,middle
 
-</br>
-</br>
 
-.center[
 > Gather data from various public sources, </br>
 > transform into homogeneous time series format, </br>
 > read into PostgreSQL database.</br>
 > `r tufte::quote_footer('--- the swissdata project in a nutshell.')`
 
-]
+
 
 
 <div class="my-footer"><span><div class="footer-text" align="right">This presentation by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
